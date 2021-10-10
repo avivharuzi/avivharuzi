@@ -1,5 +1,11 @@
 ### Hi there 👋 I'm Aviv Haruzi 😉
 
+I'm Full-Stack Developer 👨‍💻
+
+I'm from Israel 🇮🇱
+
+I'm working for the most with Node.js, TypeScript, Angular and NX 🚀
+
 ### My Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
