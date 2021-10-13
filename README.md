@@ -68,4 +68,3 @@ I'm working for the most with Node.js, TypeScript, Angular and NX 🚀
 ![Aviv's GitHub stats](https://github-readme-stats.vercel.app/api?username=avivharuzi&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true)
 
 ![Aviv's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=avivharuzi&langs_count=5&hide_title=true&hide_border=true&layout=compact)
-
