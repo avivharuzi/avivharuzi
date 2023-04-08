@@ -4,7 +4,7 @@ I'm Full-Stack Developer 👨‍💻
 
 I'm from Israel 🇮🇱
 
-I'm working for the most with Node.js, TypeScript, Angular and NX 🚀
+I'm working for the most with Node.js, TypeScript, and React 🚀
 
 ### My Stack
 
